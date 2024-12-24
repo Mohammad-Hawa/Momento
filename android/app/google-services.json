@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236875411266",
+    "project_id": "momento-dfcdf",
+    "storage_bucket": "momento-dfcdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236875411266:android:db7b5657c7e965868da2db",
+        "android_client_info": {
+          "package_name": "com.example.momento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrFrTeHfP0t_yXQfa6sjSDJuwKIX5Dyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236875411266:android:bd18d1a7581383d48da2db",
+        "android_client_info": {
+          "package_name": "com.example.momento_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrFrTeHfP0t_yXQfa6sjSDJuwKIX5Dyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
